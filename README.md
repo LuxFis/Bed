@@ -1,0 +1,2 @@
+# Bed
+Bedwars script
